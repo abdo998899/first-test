@@ -124,7 +124,7 @@ footer{
 }
 
 
-@media (min-width:0px) and (max-width:375px){
+@media (min-width:0px) and (max-width:440px){
     main{
         width:340px
     }
